@@ -1,0 +1,111 @@
+/*!
+ * Start Bootstrap - SB Admin Bootstrap Admin Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+#wrapper {
+    padding-left: 0;
+}
+
+#page-wrapper {    
+    padding: 0;
+   
+}
+
+.huge {
+    font-size: 50px;
+    line-height: normal;
+}
+
+@media only screen 
+	and (min-width : 320px) 
+	and (max-width : 480px) {
+    #wrapper {
+        padding-left: 20px;
+    }
+
+    #page-wrapper {
+        padding: 10px;
+    }
+}
+
+/* Custom Colored Panels */
+
+.huge {
+    font-size: 50px;
+}
+
+.panel-primary {
+    border-color: #000;
+}
+
+.panel-primary .panel-heading {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+
+.panel-primary a {
+    color: #000;
+}
+
+.panel-primary a:hover {
+    color: #1f2833;
+}
+
+.panel-green {
+    border-color: #000;
+}
+
+.panel-green .panel-heading {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+
+.panel-green a {
+    color: #000;
+}
+
+.panel-green a:hover {
+    color: #1f2833;
+}
+
+.panel-red {
+    border-color: #000;
+}
+
+.panel-red .panel-heading {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+
+.panel-red a {
+    color: #000;
+}
+
+.panel-red a:hover {
+    color: #1f2833;
+}
+
+.panel-yellow {
+    border-color: #000;
+}
+
+.panel-yellow .panel-heading {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+
+.panel-yellow a {
+    color: #000;
+}
+
+.panel-yellow a:hover {
+    color: #1f2833;
+}
